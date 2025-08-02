@@ -4,7 +4,7 @@
 
 ---
 
-## Problem Statement : Sustainable lifestyle tools
+## Problem Statement: Sustainable lifestyle tools
 
 **"How might we build and deploy technology-driven solutions that actively promote cleaner, greener communities and environmental sustainability?"**
 
@@ -53,10 +53,10 @@ EcoFlow assists users in organizing their schedules while being mindful of envir
 - **Track:** Sustainable Lifestyle Tools  
 - **Project Name:** EcoFlow  
 - **Team Members:**
-  - Sidharth S     - Developer, Ai & Ml Engineer & Lead
+  - Sidharth S     – Developer, AI & ML Engineer & Lead  
   - Kevin Varghese – Flutter Developer, Planner  
-  - Gowri RR       - Designer and App Developer
-  - Athira C       - BackEnd Developer  
+  - Gowri R R      – Designer and App Developer  
+  - Athira C       – Back-End Developer  
 
 ---
 
@@ -68,11 +68,9 @@ EcoFlow assists users in organizing their schedules while being mindful of envir
 
 ## Screenshots
 
-*Screenshots will be added once the UI is finalized.*
-
-| Home Screen         | Planner View         | Dashboard View       |
-|---------------------|----------------------|-----------------------|
-| `[screenshots/home.png](https://github.com/KevinVargheseKV/EcoFlow-GreenSpark2025/blob/main/screenshot/homepage.jpg)` | `screenshots/planner.png` | `screenshots/dashboard.png` |
+| Home Screen | Planner View | Dashboard View |
+|-------------|--------------|----------------|
+| ![Home Screen](https://github.com/KevinVargheseKV/EcoFlow-GreenSpark2025/blob/main/screenshot/homepage.jpg?raw=true) | ![Planner View](https://github.com/KevinVargheseKV/EcoFlow-GreenSpark2025/blob/main/screenshot/planner.jpg?raw=true) | ![Dashboard View](https://github.com/KevinVargheseKV/EcoFlow-GreenSpark2025/blob/main/screenshot/dashboard.jpg?raw=true) |
 
 ---
 
