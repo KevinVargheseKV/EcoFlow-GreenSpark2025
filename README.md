@@ -68,9 +68,9 @@ EcoFlow assists users in organizing their schedules while being mindful of envir
 
 ## Screenshots
 
-| Home Screen | Planner View | Dashboard View |
-|-------------|--------------|----------------|
-| ![Home Screen](https://github.com/KevinVargheseKV/EcoFlow-GreenSpark2025/blob/main/screenshot/homepage.jpg?raw=true) | ![Planner View](https://github.com/KevinVargheseKV/EcoFlow-GreenSpark2025/blob/main/screenshot/planner.jpg?raw=true) | ![Dashboard View](https://github.com/KevinVargheseKV/EcoFlow-GreenSpark2025/blob/main/screenshot/dashboard.jpg?raw=true) |
+| Home Screen | Dashboard View |
+|-------------|----------------|
+| ![Home Screen](https://github.com/KevinVargheseKV/EcoFlow-GreenSpark2025/blob/main/screenshot/homepage.jpg?raw=true) | ![Dashboard View](https://github.com/KevinVargheseKV/EcoFlow-GreenSpark2025/blob/main/screenshot/dashboard.jpg?raw=true) |
 
 ---
 
