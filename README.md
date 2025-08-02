@@ -49,7 +49,7 @@ EcoFlow assists users in organizing their schedules while being mindful of envir
 
 ## Team Information
 
-- **Team Name:** EcoSage  
+- **Team Name:** NeuroSage  
 - **Track:** Sustainable Lifestyle Tools  
 - **Project Name:** EcoFlow  
 - **Team Members:**
