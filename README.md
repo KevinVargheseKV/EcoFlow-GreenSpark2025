@@ -54,7 +54,9 @@ EcoFlow assists users in organizing their schedules while being mindful of envir
 - **Project Name:** EcoFlow  
 - **Team Members:**
   - Kevin Varghese – Flutter Developer, Planner  
-  - *(Add additional members and roles if applicable)*
+  - Sidharth S     - Developer, Ai & Ml Engineer & Lead
+  - Gowri RR       - Designer and App Developer
+  - Athira C       - BackEnd Developer  
 
 ---
 
