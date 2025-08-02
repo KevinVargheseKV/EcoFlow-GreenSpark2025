@@ -1,86 +1,85 @@
 # EcoFlow – GreenSpark 2025 Submission
 
-EcoFlow is a smart, eco-conscious daily planner mobile application built with Flutter, designed to promote a sustainable lifestyle through personalized scheduling, intelligent environmental suggestions, and conscious living habits.
+**EcoFlow** is a smart, eco-conscious daily planner mobile application developed using **Flutter**, aimed at encouraging individuals to adopt sustainable lifestyle choices through intelligent scheduling, contextual environmental recommendations, and consistent habit reinforcement.
 
 ---
 
 ## Problem Statement
 
-*"How might we build and deploy technology-driven solutions that actively promote cleaner, greener communities and environmental sustainability?"*
+**"How might we build and deploy technology-driven solutions that actively promote cleaner, greener communities and environmental sustainability?"**
 
-Many people wish to live sustainably but struggle to convert that intention into daily practice. EcoFlow addresses this by becoming a personal eco-assistant, seamlessly integrating sustainable habits into daily routines. From reminding users to segregate waste, to suggesting cleaner travel modes, EcoFlow helps individuals make mindful, planet-friendly choices.
+Many individuals express a desire to lead a sustainable lifestyle but struggle to incorporate it consistently into their daily routines. EcoFlow is designed to act as a personalized eco-companion that seamlessly integrates environmental responsibility into everyday planning and decision-making.
 
 ---
 
 ## Project Description
 
-EcoFlow is more than a traditional planner. It acts as a smart environmental partner that supports users by:
+EcoFlow assists users in organizing their schedules while being mindful of environmental impact. It goes beyond traditional planners by providing real-time suggestions and reminders that promote sustainability. The application encourages behavior change by making eco-friendly choices convenient and rewarding.
 
-- Planning daily routines while minimizing carbon footprint.
-- Suggesting sustainable alternatives such as walking or public transportation.
-- Providing reminders about eco-friendly practices like switching off appliances and waste segregation.
-- Encouraging consistent sustainable behavior through daily green challenges.
-- Tracking and visualizing personal eco-scores to motivate ongoing improvement.
+**Core Objectives:**
+
+- Minimize individual carbon footprint through better task timing.
+- Encourage daily green habits with timely reminders.
+- Promote consistency using challenge-based reinforcement and tracking.
 
 ---
 
 ## Key Features
 
-- **Smart Scheduler**: Schedules tasks with an eco-conscious focus, encouraging low-carbon activity windows.
-- **Eco-Insights Engine**: Offers real-time suggestions for more sustainable behavior based on user plans.
-- **Eco-Alarms**: Provides reminders for actions like switching off devices, carrying reusable items, or preparing for waste pickup.
-- **Green Challenge of the Day**: Inspires daily micro-habits that reduce personal environmental impact.
-- **EcoScore Dashboard**: Tracks and visualizes a user’s sustainable behavior progress over time.
+- **Smart Daily Scheduler** – Suggests environmentally optimal time slots for tasks like commuting and shopping.
+- **Eco-Aware Reminders** – Notifies users to switch off appliances, carry reusable bags, and practice sustainable habits.
+- **Green Challenge of the Day** – Presents simple daily eco-tasks (e.g., avoiding plastic, watering a plant).
+- **EcoScore Dashboard** – Tracks and visualizes the user's engagement with green practices.
+- **Minimalist UI Design** – Built with low-resource usage in mind, ensuring a clean and accessible experience.
 
 ---
 
-## Tech Stack
+## Technology Stack
 
-| Component         | Technology                       |
-|-------------------|----------------------------------|
-| Frontend          | Flutter (Dart)                   |
-| State Management  | Provider                         |
-| Local Storage     | Shared Preferences / Hive (planned) |
-| Platform          | Android (iOS support planned)    |
-| UI Design         | Material 3 guidelines            |
-| Repository        | Git + GitHub                     |
+| Component           | Technology Used                |
+|--------------------|---------------------------------|
+| Frontend Framework | Flutter (Dart)                  |
+| State Management   | Provider                        |
+| Local Storage      | Shared Preferences *(Hive planned)* |
+| UI Design          | Material 3, Custom Icons        |
+| Platform           | Android *(iOS support planned)* |
+| Version Control    | Git, GitHub                     |
 
 ---
 
 ## Team Information
 
-- **Team Name**: EcoSage  
-- **Track**: Sustainable Lifestyle Tools  
-- **Project**: EcoFlow  
-- **Team Members**:
+- **Team Name:** EcoSage  
+- **Track:** Sustainable Lifestyle Tools  
+- **Project Name:** EcoFlow  
+- **Team Members:**
   - Kevin Varghese – Flutter Developer, Planner  
-  - [Add other members with their roles if applicable]
+  - *(Add additional members and roles if applicable)*
 
 ---
 
 ## Repository
 
-Public repository link: [https://github.com/yourusername/EcoFlow](https://github.com/yourusername/EcoFlow)  
-*(Replace with your actual URL)*
+- **GitHub Repository:** [https://github.com/KevinVargheseKV/EcoFlow-GreenSpark2025](https://github.com/KevinVargheseKV/EcoFlow-GreenSpark2025)
 
 ---
 
 ## Screenshots
 
-Screenshots and UI mockups will be uploaded in the `/screenshots` folder. Planned structure:
+*Screenshots will be added once the UI is finalized.*
 
-| Home Screen              | Planner View              | Tips and Alarms               |
-|--------------------------|---------------------------|-------------------------------|
-| screenshots/home.png     | screenshots/planner.png   | screenshots/tips.png          |
+| Home Screen         | Planner View         | Dashboard View       |
+|---------------------|----------------------|-----------------------|
+| `screenshots/home.png` | `screenshots/planner.png` | `screenshots/dashboard.png` |
 
 ---
 
 ## Getting Started
 
-Clone the repository and run the app locally:
+To run the project locally on your machine:
 
 ```bash
-git clone https://github.com/yourusername/EcoFlow.git
-cd EcoFlow
+git clone https://github.com/KevinVargheseKV/EcoFlow-GreenSpark2025.git
+cd EcoFlow-GreenSpark2025
 flutter pub get
 flutter run
